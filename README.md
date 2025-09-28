@@ -9,6 +9,7 @@ Kelas  :  Sistem Informasi (C) 25
 
 <h2>Output 1. Tampilan awal login program</h2>
 <img width="319" height="310" alt="Screenshot 2025-09-29 031719" src="https://github.com/user-attachments/assets/3c8e617b-5ac0-4165-b8b2-b212e1358c03" />
+
 Pengguna akan login menggunakan akun yang dimiliki. Pengguna dapat login sebagai Admin, atau sebagai Member berdasarkan username dan password yang dimasukkan.
 
 
