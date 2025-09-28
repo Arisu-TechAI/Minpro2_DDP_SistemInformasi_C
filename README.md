@@ -23,3 +23,9 @@ Pengguna dapat melihat list postingan yang tersedia dari database. Jika belum ad
 Pilihan untuk pengguna yang ingin membuat postingan diskusi baru. Pengguna memasukkan Judul, dan Isi dalam postingan yang ingin dibuat. Data postingan ini nantinya akan disimpan ke database agar dapat dilihat kembali kedepannya.
 
 <h2>Output Pilihan 3 : Edit Postingan</h2>
+<img width="459" height="325" alt="Screenshot 2025-09-29 034910" src="https://github.com/user-attachments/assets/be81875c-3f13-4f8d-9e7b-ec564eccc9ba" />
+
+Pilihan untuk mengedit suatu postingan yang tersimpan di database. Pengguna harus memasukkan nomor kode postingan yang ingin di edit, kemudian pengguna dapat mengedit judul postingan dan mengubah isi postingan. Setelah itu, postingan yang telah di edit akan disimpan di database, mengubah isi postingan sebelumnya.
+
+<h2>Output Pilian 4 : Hapus Postingan</h2>
+
