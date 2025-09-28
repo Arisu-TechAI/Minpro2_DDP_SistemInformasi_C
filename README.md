@@ -31,3 +31,19 @@ Pilihan untuk mengedit suatu postingan yang tersimpan di database. Pengguna haru
 <img width="416" height="274" alt="Screenshot 2025-09-29 035531" src="https://github.com/user-attachments/assets/3ee28442-a21c-4dac-9f79-950aac29e187" />
 
 Pilihan untuk menghapus sebuah postingan. Pengguna memasukkan kode list postingan yang ada di database. Jika postingan tersebut ada, dengan memilih menu nomor 4 ini maka postingan yang dipilih untuk dihapus akan dihapus dari database.
+
+<h2>Output Pilihan 5 : Log out</h2>
+<img width="380" height="274" alt="Screenshot 2025-09-29 035923" src="https://github.com/user-attachments/assets/87340931-8813-40bc-8548-fa9fdd258a1a" />
+
+Pilihan ini bisa digunakan jika pengguna ingin mengganti akun, atau ingin keluar dari program. 
+Jika pengguna menginput "y" pada output "apakah anda ingin login lagi?", maka pengguna akan diarahkan untuk memasukkan data akun kembali jika pengguna ingin mengganti akun.
+Jika pengguna menginput "n" pada ooutput "apakah anda ingin login lagi?", maka program akan dihentikan dan pengguna keluar dari aplikasi.
+<img width="606" height="269" alt="Screenshot 2025-09-29 040735" src="https://github.com/user-attachments/assets/af7f844e-28f9-4cf2-9460-9ed962f2d79b" />
+
+
+
+
+
+
+
+
