@@ -38,6 +38,7 @@ Pilihan untuk menghapus sebuah postingan. Pengguna memasukkan kode list postinga
 Pilihan ini bisa digunakan jika pengguna ingin mengganti akun, atau ingin keluar dari program. 
 Jika pengguna menginput "y" pada output "apakah anda ingin login lagi?", maka pengguna akan diarahkan untuk memasukkan data akun kembali jika pengguna ingin mengganti akun.
 Jika pengguna menginput "n" pada ooutput "apakah anda ingin login lagi?", maka program akan dihentikan dan pengguna keluar dari aplikasi.
+
 <img width="606" height="269" alt="Screenshot 2025-09-29 040735" src="https://github.com/user-attachments/assets/af7f844e-28f9-4cf2-9460-9ed962f2d79b" />
 
 
