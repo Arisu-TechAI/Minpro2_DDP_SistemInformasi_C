@@ -12,6 +12,14 @@ Kelas  :  Sistem Informasi (C) 25
 
 Pengguna akan login menggunakan akun yang dimiliki. Pengguna dapat login sebagai Admin, atau sebagai Member berdasarkan username dan password yang dimasukkan.
 
+<h2>Output Pilihan 1 : Lihat Postingan</h2>
+<img width="325" height="220" alt="Screenshot 2025-09-29 033826" src="https://github.com/user-attachments/assets/4afb775e-f783-41e8-80c7-aa03fefa6e68" />
 
+Pengguna dapat melihat list postingan yang tersedia dari database. Jika belum ada postingan, maka program hanya akan memberikan output "Belum ada Postingan"
 
+<h2>Output Pilihan 2 : Buat postingan</h2>
+<img width="387" height="254" alt="Screenshot 2025-09-29 034348" src="https://github.com/user-attachments/assets/842728f6-746c-4cea-92a2-09bf8bd5f661" />
 
+Pilihan untuk pengguna yang ingin membuat postingan diskusi baru. Pengguna memasukkan Judul, dan Isi dalam postingan yang ingin dibuat. Data postingan ini nantinya akan disimpan ke database agar dapat dilihat kembali kedepannya.
+
+<h2>Output Pilihan 3 : Edit Postingan</h2>
