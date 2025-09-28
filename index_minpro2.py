@@ -28,6 +28,7 @@ def login():
 def lihat_topik():
     if not topik_diskusi:
         print("Belum ada topik yang tersedia")
+        return
     else:
         for i, topik in enumerate(topik_diskusi):
             print(f"{i+1}. {topik['judul']} (by {topik['author']})")
@@ -50,7 +51,7 @@ def edit_topik():
         topik["isi"] = input("Edit isi: ")
         print("Topik berhasil diperbarui!")
     except:
-        print("")
+        print("Topik tidak ditemukan!")
 
 # program/function untuk tampilan menu : 4. Hapus Topik Diskusi
 def hapus_topik():
@@ -82,6 +83,7 @@ def komentar_topik(user):
 # Function untuk Menu Akses role Admin
 def menu_admin():
     while True:
+        print("\n=== Silahkan Pilih Menu (1-5) ===")
         print("\n1. Lihat Topik\n2. Buat Topik\n3. Edit Topik\n4. Hapus Topik\n5. Logout")
         pilih = input("Pilih: ")
         if pilih == "1":
@@ -100,6 +102,7 @@ def menu_admin():
 # Function untuk menu Akses role Member
 def menu_member(user):
     while True:
+        print("\n=== Silahkan Pilih Menu (1-4) ===")
         print("\n1. Lihat Topik\n2. Buat Topik\n3. Komentar\n4. Logout")
         pilih = input("Pilih: ")
         if pilih == "1":
