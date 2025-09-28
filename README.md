@@ -28,4 +28,6 @@ Pilihan untuk pengguna yang ingin membuat postingan diskusi baru. Pengguna memas
 Pilihan untuk mengedit suatu postingan yang tersimpan di database. Pengguna harus memasukkan nomor kode postingan yang ingin di edit, kemudian pengguna dapat mengedit judul postingan dan mengubah isi postingan. Setelah itu, postingan yang telah di edit akan disimpan di database, mengubah isi postingan sebelumnya.
 
 <h2>Output Pilian 4 : Hapus Postingan</h2>
+<img width="416" height="274" alt="Screenshot 2025-09-29 035531" src="https://github.com/user-attachments/assets/3ee28442-a21c-4dac-9f79-950aac29e187" />
 
+Pilihan untuk menghapus sebuah postingan. Pengguna memasukkan kode list postingan yang ada di database. Jika postingan tersebut ada, dengan memilih menu nomor 4 ini maka postingan yang dipilih untuk dihapus akan dihapus dari database.
